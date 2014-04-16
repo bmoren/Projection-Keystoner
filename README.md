@@ -20,9 +20,9 @@ A simple projection keystoner to help in complex projection setups (especially i
 + enable mouse
 	+ use the mouse to manipulate the corners?
 + reset
-	+erase everything for that video
+	+ erase everything for that video
 
-####Why 3?
+####Why 3 video slots?
 in order to easily project with one projector into a 2 or 3 point corner was the idea, but i'm sure you can figure out more uses!
 
 
