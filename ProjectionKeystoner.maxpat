@@ -139,18 +139,18 @@
 , 			{
 				"box" : 				{
 					"fontname" : "Arial",
-					"fontsize" : 10.0,
+					"fontsize" : 9.0,
 					"frgb" : 0.0,
 					"id" : "obj-106",
 					"linecount" : 34,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 162.625443, 455.557007, 75.0, 386.0 ],
+					"patching_rect" : [ 162.625443, 455.557007, 77.0, 348.0 ],
 					"presentation" : 1,
-					"presentation_linecount" : 17,
-					"presentation_rect" : [ 308.559326, 30.807007, 159.0, 196.0 ],
-					"text" : "1. Start Renderer\n2. Load in videos (they will be paused on load)\n3. Drag around corners until desired distortion is acomplished\n4. Choose a video using the selector then engage/disengage properties\n5. Press Start Videos\n\nReset returns all videos back to original positions and aspects.\n\nClear empties all  3 video slots.\n\nPress escape key to engage fullscreen mode.",
+					"presentation_linecount" : 19,
+					"presentation_rect" : [ 306.559326, 29.807007, 159.0, 198.0 ],
+					"text" : "1. Start Renderer\n2. Load in videos (they will be paused on load)\n3. Drag around corners until desired distortion is acomplished\n4. Choose a video using the selector then engage/disengage properties\n5. Press Start Videos\n\n'Reset' returns all videos back to original positions and aspects.\n\n'Clear' empties all  3 video slots.\n\nPress escape key to engage fullscreen mode.\n\nVideos will load stopped, you must press the 'start videos' to play them.",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
